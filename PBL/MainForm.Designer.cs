@@ -594,77 +594,77 @@
             this.TLabel8.TabIndex = 54;
             this.TLabel8.Text = "20";
             // 
-            // label1
+            // TrongSoLabel1
             // 
             this.TrongSoLabel1.AutoSize = true;
             this.TrongSoLabel1.Location = new System.Drawing.Point(699, 75);
             this.TrongSoLabel1.Name = "label1";
             this.TrongSoLabel1.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel1.TabIndex = 55;
-            this.TrongSoLabel1.Text = "label1";
+            this.TrongSoLabel1.Text = "0.171";
             // 
-            // label2
+            // TrongSoLabel2
             // 
             this.TrongSoLabel2.AutoSize = true;
             this.TrongSoLabel2.Location = new System.Drawing.Point(699, 115);
             this.TrongSoLabel2.Name = "label2";
             this.TrongSoLabel2.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel2.TabIndex = 56;
-            this.TrongSoLabel2.Text = "label2";
+            this.TrongSoLabel2.Text = "0.146";
             // 
-            // label3
+            // TrongSoLabel3
             // 
             this.TrongSoLabel3.AutoSize = true;
             this.TrongSoLabel3.Location = new System.Drawing.Point(699, 157);
             this.TrongSoLabel3.Name = "label3";
             this.TrongSoLabel3.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel3.TabIndex = 57;
-            this.TrongSoLabel3.Text = "label3";
+            this.TrongSoLabel3.Text = "0.073";
             // 
-            // label4
+            // TrongSolabel4
             // 
             this.TrongSoLabel4.AutoSize = true;
             this.TrongSoLabel4.Location = new System.Drawing.Point(699, 199);
             this.TrongSoLabel4.Name = "label4";
             this.TrongSoLabel4.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel4.TabIndex = 58;
-            this.TrongSoLabel4.Text = "label4";
+            this.TrongSoLabel4.Text = "0.134";
             // 
-            // label5
+            // TrongSolabel5
             // 
             this.TrongSoLabel5.AutoSize = true;
             this.TrongSoLabel5.Location = new System.Drawing.Point(699, 238);
             this.TrongSoLabel5.Name = "label5";
             this.TrongSoLabel5.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel5.TabIndex = 59;
-            this.TrongSoLabel5.Text = "label5";
+            this.TrongSoLabel5.Text = "0.098";
             // 
-            // label6
+            // TrongSolabel6
             // 
             this.TrongSoLabel6.AutoSize = true;
             this.TrongSoLabel6.Location = new System.Drawing.Point(699, 275);
             this.TrongSoLabel6.Name = "label6";
             this.TrongSoLabel6.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel6.TabIndex = 60;
-            this.TrongSoLabel6.Text = "label6";
+            this.TrongSoLabel6.Text = "0.122";
             // 
-            // label7
+            // TrongSolabel7
             // 
             this.TrongSoLabel7.AutoSize = true;
             this.TrongSoLabel7.Location = new System.Drawing.Point(699, 318);
             this.TrongSoLabel7.Name = "label7";
             this.TrongSoLabel7.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel7.TabIndex = 61;
-            this.TrongSoLabel7.Text = "label7";
+            this.TrongSoLabel7.Text = "0.098";
             // 
-            // label8
+            // TrongSoLabel8 
             // 
             this.TrongSoLabel8.AutoSize = true;
             this.TrongSoLabel8.Location = new System.Drawing.Point(699, 360);
             this.TrongSoLabel8.Name = "label8";
             this.TrongSoLabel8.Size = new System.Drawing.Size(50, 20);
             this.TrongSoLabel8.TabIndex = 62;
-            this.TrongSoLabel8.Text = "label8";
+            this.TrongSoLabel8.Text = "0.159";
             // 
             // MainForm
             // 
