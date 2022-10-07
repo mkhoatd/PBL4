@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfOFTqVvTsfAF1rjjdxaqnpIwhi3OFfzDhI9AcXmi2cng3LAhosIH7asvsiWbxCEN5qvcW495h8f3stnTcdmpw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\mkhoatd\\source\\repos\\PBL\\PBL\\PBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkhoatd\\.nuget\\packages\\csvhelper\\29.0.0\\csvhelper.29.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
